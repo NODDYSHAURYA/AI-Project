@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Set page layout and title
-st.set_page_config(page_title="Eco-Friendly Gadget Dashboard", layout="wide")
-st.title("Eco-Friendly Gadget Dashboard")
+st.set_page_config(page_title="AQI Calculator", layout="wide")
+st.title("AQI Calculator")
 
 # 1. **City Selection with Scrollbar (Indian Cities)**
 indian_cities = {
